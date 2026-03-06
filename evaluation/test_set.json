@@ -1,0 +1,238 @@
+[
+{
+"question": "What is the notice period for termination?",
+"answer": "The notice period is 30 days for monthly rated workers and 14 days for other workers."
+},
+{
+"question": "What is the notice period for resignation?",
+"answer": "A worker must provide notice as per employment contract, commonly 30 days for monthly workers."
+},
+{
+"question": "What is the probation period?",
+"answer": "The probation period is generally 6 months for workers."
+},
+{
+"question": "What is the maximum daily working hour?",
+"answer": "The maximum daily working hour is 8 hours."
+},
+{
+"question": "What is the weekly working hour limit?",
+"answer": "The weekly working hour limit is 48 hours."
+},
+{
+"question": "What are the overtime rules?",
+"answer": "Overtime must be paid at twice the ordinary rate of wages."
+},
+{
+"question": "What is the rest interval rule?",
+"answer": "Workers must receive at least a 1-hour rest interval after 5 hours of work."
+},
+{
+"question": "What is the minimum wage?",
+"answer": "Minimum wage is determined by the government wage board."
+},
+{
+"question": "When must wages be paid?",
+"answer": "Wages must be paid within 7 working days after the wage period."
+},
+{
+"question": "What is festival allowance?",
+"answer": "Festival allowance is paid during major religious festivals as per company policy or law."
+},
+{
+"question": "What is gratuity?",
+"answer": "Gratuity is a financial benefit paid to workers for long service."
+},
+{
+"question": "How many days of annual leave are allowed?",
+"answer": "Workers are entitled to annual leave based on days worked, usually one day for every 18 days."
+},
+{
+"question": "What is sick leave entitlement?",
+"answer": "Workers are entitled to 14 days of sick leave annually."
+},
+{
+"question": "What is casual leave?",
+"answer": "Casual leave allows short-term absence, typically 10 days per year."
+},
+{
+"question": "What is maternity leave duration?",
+"answer": "Maternity leave is 16 weeks."
+},
+{
+"question": "What is earned leave?",
+"answer": "Earned leave is accumulated leave based on working days."
+},
+{
+"question": "What are factory safety requirements?",
+"answer": "Factories must ensure fire safety, ventilation, and protective equipment."
+},
+{
+"question": "What is accident compensation law?",
+"answer": "Employers must compensate workers for workplace injuries."
+},
+{
+"question": "What is a trade union?",
+"answer": "A trade union is an organization formed by workers to protect their rights."
+},
+{
+"question": "How is a trade union formed?",
+"answer": "Trade unions are formed through worker registration under labor law."
+},
+{
+"question": "What is a strike?",
+"answer": "A strike is a temporary work stoppage by workers."
+},
+{
+"question": "What is a lockout?",
+"answer": "A lockout is when employers stop workers from working."
+},
+{
+"question": "What is subsistence allowance?",
+"answer": "It is an allowance paid during suspension."
+},
+{
+"question": "What is adolescent worker age limit?",
+"answer": "Adolescent workers are aged between 14 and 18."
+},
+{
+"question": "What is night shift rule?",
+"answer": "Night shifts must follow safety and hour regulations."
+},
+{
+"question": "What is wage deduction rule?",
+"answer": "Wage deductions must be lawful and documented."
+},
+{
+"question": "What is collective bargaining agent?",
+"answer": "It is a union authorized to negotiate on behalf of workers."
+},
+{
+"question": "What is termination without notice?",
+"answer": "Termination without notice requires payment in lieu."
+},
+{
+"question": "What is worker misconduct punishment?",
+"answer": "Punishments include warning, suspension, or termination."
+},
+{
+"question": "What is employment contract rule?",
+"answer": "Employment must be governed by written contract."
+},
+{
+"question": "চাকরির নোটিশ কতদিন?",
+"answer": "মাসিক কর্মীর জন্য ৩০ দিন এবং অন্যান্য কর্মীর জন্য ১৪ দিন।"
+},
+{
+"question": "পদত্যাগের নোটিশ কতদিন?",
+"answer": "পদত্যাগের ক্ষেত্রে সাধারণত ৩০ দিনের নোটিশ প্রযোজ্য।"
+},
+{
+"question": "প্রবেশন পিরিয়ড কতদিন?",
+"answer": "প্রবেশন পিরিয়ড সাধারণত ৬ মাস।"
+},
+{
+"question": "দৈনিক কর্মঘণ্টা কত?",
+"answer": "দৈনিক সর্বোচ্চ কর্মঘণ্টা ৮ ঘণ্টা।"
+},
+{
+"question": "সাপ্তাহিক কর্মঘণ্টা কত?",
+"answer": "সাপ্তাহিক কর্মঘণ্টা ৪৮ ঘণ্টা।"
+},
+{
+"question": "ওভারটাইম নিয়ম কী?",
+"answer": "ওভারটাইম দ্বিগুণ হারে প্রদান করতে হয়।"
+},
+{
+"question": "বিরতির সময় কত?",
+"answer": "৫ ঘণ্টা কাজের পর কমপক্ষে ১ ঘণ্টা বিরতি।"
+},
+{
+"question": "ন্যূনতম মজুরি কী?",
+"answer": "সরকার নির্ধারিত মজুরি বোর্ড ন্যূনতম মজুরি নির্ধারণ করে।"
+},
+{
+"question": "বেতন কবে দিতে হয়?",
+"answer": "মজুরি সময়সীমা শেষে ৭ দিনের মধ্যে দিতে হয়।"
+},
+{
+"question": "উৎসব ভাতা কী?",
+"answer": "ধর্মীয় উৎসবে প্রদেয় অতিরিক্ত ভাতা।"
+},
+{
+"question": "গ্র্যাচুইটি কী?",
+"answer": "দীর্ঘ চাকরির জন্য প্রদেয় আর্থিক সুবিধা।"
+},
+{
+"question": "বাৎসরিক ছুটি কতদিন?",
+"answer": "প্রতি ১৮ কর্মদিবসে ১ দিন হারে।"
+},
+{
+"question": "অসুস্থতার ছুটি কতদিন?",
+"answer": "প্রতি বছরে ১৪ দিন।"
+},
+{
+"question": "নৈমিত্তিক ছুটি কতদিন?",
+"answer": "সাধারণত ১০ দিন।"
+},
+{
+"question": "মাতৃত্বকালীন ছুটি কতদিন?",
+"answer": "১৬ সপ্তাহ।"
+},
+{
+"question": "অর্জিত ছুটি কী?",
+"answer": "কাজের ভিত্তিতে জমাকৃত ছুটি।"
+},
+{
+"question": "কারখানার নিরাপত্তা আইন কী?",
+"answer": "অগ্নি ও স্বাস্থ্য নিরাপত্তা নিশ্চিত করতে হয়।"
+},
+{
+"question": "দুর্ঘটনা ক্ষতিপূরণ কী?",
+"answer": "কর্মক্ষেত্রে আঘাত পেলে ক্ষতিপূরণ দিতে হয়।"
+},
+{
+"question": "ট্রেড ইউনিয়ন কী?",
+"answer": "শ্রমিকদের অধিকার রক্ষার সংগঠন।"
+},
+{
+"question": "ধর্মঘট কী?",
+"answer": "শ্রমিকদের কর্মবিরতি।"
+},
+{
+"question": "লকআউট কী?",
+"answer": "মালিকপক্ষের কর্মবিরতি ঘোষণা।"
+},
+{
+"question": "সাবসিস্টেন্স এলাউন্স কী?",
+"answer": "সাসপেনশনের সময় প্রদেয় ভাতা।"
+},
+{
+"question": "কিশোর শ্রমিকের বয়স কত?",
+"answer": "১৪ থেকে ১৮ বছর।"
+},
+{
+"question": "নাইট শিফট আইন কী?",
+"answer": "রাতের কাজের জন্য বিশেষ নিয়ম প্রযোজ্য।"
+},
+{
+"question": "মজুরি কর্তন নিয়ম কী?",
+"answer": "আইনসঙ্গত কারণ ছাড়া কর্তন করা যায় না।"
+},
+{
+"question": "সিবিএ কী?",
+"answer": "শ্রমিকদের প্রতিনিধিত্বকারী সংস্থা।"
+},
+{
+"question": "নোটিশ ছাড়া চাকরি বাতিল কী?",
+"answer": "নোটিশের পরিবর্তে অর্থ প্রদান করতে হয়।"
+},
+{
+"question": "অসদাচরণের শাস্তি কী?",
+"answer": "সতর্কতা, সাসপেনশন বা বরখাস্ত।"
+},
+{
+"question": "চাকরির চুক্তি কী?",
+"answer": "লিখিত নিয়োগ চুক্তি বাধ্যতামূলক।"
+}
+]

@@ -1,0 +1,5 @@
+# requirements.txt
+faiss-cpu
+PyPDF2
+transformers
+torch

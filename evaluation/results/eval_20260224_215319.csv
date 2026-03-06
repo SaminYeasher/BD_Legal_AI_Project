@@ -1,0 +1,60 @@
+Question,Cosine,BERTScore,Final Score
+What is the notice period for termination?,0.877,0.849,0.863
+What is the notice period for resignation?,0.877,0.854,0.865
+What is the probation period?,0.851,0.89,0.871
+What is the maximum daily working hour?,0.749,0.868,0.808
+What is the weekly working hour limit?,0.974,0.95,0.962
+What are the overtime rules?,0.724,0.869,0.797
+What is the rest interval rule?,0.377,0.834,0.606
+What is the minimum wage?,0.821,0.884,0.853
+When must wages be paid?,0.85,0.903,0.876
+What is festival allowance?,0.697,0.788,0.742
+What is gratuity?,0.831,0.799,0.815
+How many days of annual leave are allowed?,0.833,0.854,0.844
+What is sick leave entitlement?,0.885,0.893,0.889
+What is casual leave?,0.803,0.863,0.833
+What is maternity leave duration?,0.899,0.918,0.908
+What is earned leave?,0.937,0.899,0.918
+What are factory safety requirements?,0.379,0.852,0.616
+What is accident compensation law?,0.628,0.799,0.713
+What is a trade union?,0.83,0.892,0.861
+How is a trade union formed?,0.772,0.842,0.807
+What is a strike?,0.856,0.893,0.875
+What is a lockout?,0.924,0.804,0.864
+What is subsistence allowance?,0.81,0.891,0.851
+What is adolescent worker age limit?,0.401,0.833,0.617
+What is night shift rule?,0.738,0.8,0.769
+What is wage deduction rule?,0.71,0.772,0.741
+What is collective bargaining agent?,0.746,0.901,0.824
+What is termination without notice?,0.799,0.855,0.827
+What is worker misconduct punishment?,0.69,0.709,0.699
+What is employment contract rule?,0.463,0.854,0.659
+চাকরির নোটিশ কতদিন?,0.622,0.829,0.726
+পদত্যাগের নোটিশ কতদিন?,0.742,0.835,0.788
+প্রবেশন পিরিয়ড কতদিন?,0.649,0.854,0.751
+দৈনিক কর্মঘণ্টা কত?,0.956,0.939,0.947
+সাপ্তাহিক কর্মঘণ্টা কত?,0.993,0.943,0.968
+ওভারটাইম নিয়ম কী?,0.766,0.864,0.815
+বিরতির সময় কত?,0.79,0.883,0.837
+ন্যূনতম মজুরি কী?,0.775,0.899,0.837
+বেতন কবে দিতে হয়?,0.716,0.796,0.756
+উৎসব ভাতা কী?,0.713,0.858,0.785
+গ্র্যাচুইটি কী?,0.411,0.8,0.605
+বাৎসরিক ছুটি কতদিন?,0.6,0.836,0.718
+অসুস্থতার ছুটি কতদিন?,0.702,0.858,0.78
+নৈমিত্তিক ছুটি কতদিন?,0.737,0.897,0.817
+মাতৃত্বকালীন ছুটি কতদিন?,0.682,0.929,0.805
+অর্জিত ছুটি কী?,0.708,0.817,0.762
+কারখানার নিরাপত্তা আইন কী?,0.487,0.838,0.662
+দুর্ঘটনা ক্ষতিপূরণ কী?,0.79,0.867,0.828
+ট্রেড ইউনিয়ন কী?,0.645,0.857,0.751
+ধর্মঘট কী?,0.654,0.847,0.751
+লকআউট কী?,0.536,0.651,0.594
+সাবসিস্টেন্স এলাউন্স কী?,0.539,0.832,0.686
+কিশোর শ্রমিকের বয়স কত?,0.363,0.839,0.601
+নাইট শিফট আইন কী?,0.733,0.827,0.78
+মজুরি কর্তন নিয়ম কী?,0.486,0.826,0.656
+সিবিএ কী?,0.665,0.864,0.765
+নোটিশ ছাড়া চাকরি বাতিল কী?,0.519,0.855,0.687
+অসদাচরণের শাস্তি কী?,0.618,0.816,0.717
+চাকরির চুক্তি কী?,0.588,0.801,0.694
